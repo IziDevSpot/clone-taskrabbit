@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  zip_code: 1
+  zip_cody_type: MyString
+  city: MyString
+  state: MyString
+  lat: 1.5
+  lng: 1.5
+  country: MyString
+  location_text: MyString
+  location: MyString
+  estimated_population: MyString
+  total_wages: MyString
+
+two:
+  zip_code: 1
+  zip_cody_type: MyString
+  city: MyString
+  state: MyString
+  lat: 1.5
+  lng: 1.5
+  country: MyString
+  location_text: MyString
+  location: MyString
+  estimated_population: MyString
+  total_wages: MyString
